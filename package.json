@@ -4,6 +4,7 @@
     "ejs": "^3.1.10",
     "express": "^5.1.0",
     "express-handlebars": "^5.3.5",
+    "multer": "^2.0.2",
     "pug": "^3.0.3"
   }
 }
